@@ -1,1 +1,1 @@
-# setting up repository for project
+# Capstone project for Meta Database Engineer 
